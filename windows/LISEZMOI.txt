@@ -1,0 +1,5 @@
+AntiVeille - Windows 11 Pro
+1. Extraire le ZIP
+2. Double-clic sur Lancer_AntiVeille.bat
+3. Taper la duree (ex: 1h24min) puis Entree
+Rien a installer. Ctrl+C pour arreter.
